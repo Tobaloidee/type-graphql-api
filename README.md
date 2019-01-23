@@ -2,6 +2,9 @@
 
 > Une API réalisée avec TypeGraphQL et Express
 
+## Prérequis
+Vous devez avoir [Redis](https://redis.io/download) d'installé pour faire fonctionner l'application correctement.
+
 ## Setup
 
 ```
