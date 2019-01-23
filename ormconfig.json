@@ -1,0 +1,7 @@
+{
+  "database": "database/type_graphql_api.sqlite",
+  "entities": ["src/entity/*.*"],
+  "logging": true,
+  "synchronize": true,
+  "type": "sqlite"
+}
