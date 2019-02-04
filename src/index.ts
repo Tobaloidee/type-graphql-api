@@ -92,7 +92,7 @@ const main = async () => {
   );
 
   // Apply middleware
-  apolloServer.applyMiddleware({ app });
+  apolloServer.applyMiddleware({ app, cors: false });
 
   // Listen ton PORT 4000
   app.listen(4000, () => {
