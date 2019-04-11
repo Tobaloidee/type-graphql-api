@@ -1,3 +1,5 @@
+<p align="center"><img src="/logo/logotype-horizontal.png"></p>
+
 # type-graphql-api
 
 > Une API réalisée avec TypeGraphQL et Express
